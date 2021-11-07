@@ -1,0 +1,123 @@
+[
+  {
+    "name": "Facebook",
+    "targets": [
+      "Location",
+      "Age",
+      "Sex",
+      "Spoken languages",
+      "Events"
+    ],
+    "plans": [
+      {
+        "name": "140 EUR",
+        "value": "3-8 listings, 12 optimizations, Campaign setup, Admin and optimising, Email support, Monthly reports, Install ,Conversion monitoring, Landing page"
+      },
+      {
+        "name": "200 EUR",
+        "value": "3-8 listings, 12 optimizations, Campaign setup, Admin and optimising, Email support, Monthly reports, Install ,Conversion monitoring, Landing page"
+      },
+      {
+        "name": "100 EUR",
+        "value": "3-8 listings, 12 optimizations, Campaign setup, Admin and optimising, Email support, Monthly reports, Install ,Conversion monitoring, Landing page"
+      },
+      {
+        "name": "75 EUR",
+        "value": "3-8 listings, 12 optimizations, Campaign setup, Admin and optimising, Email support, Monthly reports, Install ,Conversion monitoring, Landing page"
+      }
+    ]
+  },
+  {
+    "name": "Linkedin",
+    "targets": [
+      "Location",
+      "Age",
+      "Sex",
+      "Company",
+      "Industry",
+      "Expertise",
+      "Education"
+    ],
+    "plans": [
+      {
+        "name": "150 EUR",
+        "value": "3-8 listings, 12 optimizations, Campaign setup, Admin and optimising, Email support, Monthly reports, Install ,Conversion monitoring, Landing page"
+      },
+      {
+        "name": "180 EUR",
+        "value": "3-8 listings, 12 optimizations, Campaign setup, Admin and optimising, Email support, Monthly reports, Install ,Conversion monitoring, Landing page"
+      },
+      {
+        "name": "90 EUR",
+        "value": "3-8 listings, 12 optimizations, Campaign setup, Admin and optimising, Email support, Monthly reports, Install ,Conversion monitoring, Landing page"
+      },
+      {
+        "name": "60 EUR",
+        "value": "3-8 listings, 12 optimizations, Campaign setup, Admin and optimising, Email support, Monthly reports, Install ,Conversion monitoring, Landing page"
+      }
+    ]
+  },
+  {
+    "name": "Twitter",
+    "targets": [
+      "Location",
+      "Age",
+      "Sex",
+      "Company",
+      "Industry",
+      "Expertise",
+      "Education"
+    ],
+    "plans": [
+      {
+        "name": "170 EUR",
+        "value": "3-8 listings, 12 optimizations, Campaign setup, Admin and optimising, Email support, Monthly reports, Install ,Conversion monitoring, Landing page"
+      },
+      {
+        "name": "170 EUR",
+        "value": "3-8 listings, 12 optimizations, Campaign setup, Admin and optimising, Email support, Monthly reports, Install ,Conversion monitoring, Landing page"
+      },
+      {
+        "name": "200 EUR",
+        "value": "3-8 listings, 12 optimizations, Campaign setup, Admin and optimising, Email support, Monthly reports, Install ,Conversion monitoring, Landing page"
+      },
+      {
+        "name": "100 EUR",
+        "value": "3-8 listings, 12 optimizations, Campaign setup, Admin and optimising, Email support, Monthly reports, Install ,Conversion monitoring, Landing page"
+      },
+      {
+        "name": "75 EUR",
+        "value": "3-8 listings, 12 optimizations, Campaign setup, Admin and optimising, Email support, Monthly reports, Install ,Conversion monitoring, Landing page"
+      }
+    ]
+  },
+  {
+    "name": "Instagram",
+    "targets": [
+      "Location",
+      "Age",
+      "Sex",
+      "Spoken languages",
+      "Interests"
+    ]
+  },
+  {
+    "name": "Google AdWords",
+    "targets": [
+      "Location",
+      "Age",
+      "Sex",
+      "Device",
+      "Keywords",
+      "Similar products / services"
+    ]
+  },
+  {
+    "name": "SEO",
+    "targets": [
+      "Industry",
+      "Keywords",
+      "Hyperlinks"
+    ]
+  }
+]
